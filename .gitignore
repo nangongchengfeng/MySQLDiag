@@ -2,9 +2,9 @@
 .venv/
 venv/
 ENV/
-
+.env
 # Reports
-reports/
+
 
 # Python
 __pycache__/
